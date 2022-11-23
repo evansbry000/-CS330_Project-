@@ -1,0 +1,24 @@
+
+
+Number of times               Number of integer
+the Part 2 Program            inputs before
+was run                       unlock sequence
+
+   1                                425712
+   2                                1428858
+   3                                1986904
+   4                                1088356
+   5                                450399
+   6                                1566052
+   7                                2888023
+   8                                132107
+   9                                564088
+   10                               3897529
+   11                               397025
+   12                               507316
+   13                               488080
+   14                               42107
+   
+   Minimum Run#14 42107 integers inputted
+   Maximum Run#10 3897529 integers inputted
+   Average 1133039 integers inputted
