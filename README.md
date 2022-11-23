@@ -18,6 +18,7 @@ Memo
 My program contains several different objects, including an arraylist, an array, char application, and the random math method. The array is designed to comb through the arraylist one at a time like a queue data structure: first in, first out. If only one integer is inputed, it steps one integer at a time. But if 
 a larger integer of multiple digits is inputed, it will read through the number of digits step by step until it reaches the end. The program is coded
 in Java.
+![image](https://user-images.githubusercontent.com/89946767/203472404-6e71905c-4794-4d81-952a-3ec0195559f6.png)
 
 
 Support
