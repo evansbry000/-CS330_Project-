@@ -22,3 +22,6 @@ was run                       unlock sequence
    Minimum Run#14 42107 integers inputted
    Maximum Run#10 3897529 integers inputted
    Average 1133039 integers inputted
+
+Average time to break if each entry took
+one second: 13 days 2 hours 43 minutes and 58 seconds
