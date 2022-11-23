@@ -11,6 +11,7 @@ Test Usage
 -Executing java -jar Part1.jar/part2.jar on the already existing .jar files works in windows 10
 -Building an execuatble jar file with the $ ./gradlew jar on the java files is another option in linux/ubuntu.
 -Running the executable with $ java -jar DIRECTORY/Part1.jar works in linux/ubuntu.
+-Another option is executing ./gradlew clean build on the file to run the main task without the executable.
 -This program can be tested by inputting 1 digit at a time, one of the codes by themselves, then with digits before and/or after the codes. When I tested this, none of these generated an error. Running the random number generator didn't generate an error either. This was tested on Eclipse IDE as well as the command console/terminal.
 
 Memo
